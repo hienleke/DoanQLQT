@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>DoanQLQT2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>libs/jcommon-1.0.23.jar</name>
+			<type>1</type>
+			<location>C:/Users/Ke Hien Le/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jcommon-1.0.23.jar</location>
+		</link>
+		<link>
+			<name>libs/jfreechart-1.0.19-swt.jar</name>
+			<type>1</type>
+			<location>C:/Users/Ke Hien Le/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19-swt.jar</location>
+		</link>
+		<link>
+			<name>libs/jfreechart-1.0.19.jar</name>
+			<type>1</type>
+			<location>C:/Users/Ke Hien Le/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>
